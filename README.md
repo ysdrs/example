@@ -7,7 +7,7 @@
 - 安装源码
 
 ```sh
-git clone --depth=1 -b example https://github.com/yoimiya-kokomi/Miao-Yunzai.git ./plugins/example
+git clone --depth=1 https://github.com/yunzai-org/example.git ./plugins/example
 ```
 
 ## 功能列表
